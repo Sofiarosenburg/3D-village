@@ -1,7 +1,7 @@
 # Dream Village 3D
 
 Welcome to the repository for my 3D Village Project, created in Spline Design.  
-This project brings to life a small, peaceful village surrounded by nature — a cozy place with around ten charming houses, a calm lake, and a park right in the center. Every detail was carefully chosen to create harmony, warmth, and a touch of cinematic magic.
+This project brings to life a small, peaceful village surrounded by nature, a cozy place with around ten charming houses, a calm lake, and a park right in the center. Every detail was carefully chosen to create harmony, warmth, and a touch of cinematic magic.
 
 ## About
 The project features:  
