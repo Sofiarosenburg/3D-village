@@ -13,7 +13,7 @@ The project features:
 - A little easter egg hidden somewhere in the village, a small surprise for those who explore carefully.  
 
 ## How to Explore
-- Use this link to explore the scene: [Spline Project Link](https://app.spline.design/file/5b150b86-44df-4bc9-a410-62189bf9b4de)  
+- Use this link to explore the scene: [Spline Project Link] https://app.spline.design/community/file/28b5ea4d-ae6f-41e9-98f9-ac99892c6093
 - Move freely around the 3D scene in Spline and explore every corner of the village.  
 - Pay attention to textures, lighting, and reflections that give each house a unique touch.  
 - Try to find the easter egg hidden in the scene.  
