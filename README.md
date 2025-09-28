@@ -13,6 +13,7 @@ One special house inspired by the movie Up, bringing a colorful and nostalgic ch
 There’s also a little easter egg hidden somewhere in the village! a small surprise for those who explore it carefully
 
 #How to Explore
+Use the link: https://app.spline.design/file/5b150b86-44df-4bc9-a410-62189bf9b4de
 Move freely around the 3D scene in Spline and explore every corner of the village.
 Pay attention to textures, lighting, and reflections that give each house a unique touch.
 Try to find the easter egg hidden in the scene.
